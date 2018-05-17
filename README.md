@@ -31,7 +31,7 @@ $ docker run -it bernadinm/crassh python crassh.py
 ```
 
 ```bash
-$ docker run -v $PWD:$PWD -it test-crassh python crassh.py -s $PWD/switch -c $PWD/commands -U username -P password
+$ docker run -v $PWD:$PWD -it bernadinm/crassh python crassh.py -s $PWD/switch -c $PWD/commands -U username -P password
 ```
 
 
