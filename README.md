@@ -27,7 +27,7 @@ here](http://www.linickx.com/tag/crassh).
 
 
 ```bash
-$ docker run -it bernadinm/crassh
+$ docker run -it bernadinm/crassh python crassh.py
 ```
 
 ```bash
